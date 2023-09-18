@@ -1,4 +1,4 @@
-# Strako profile !
+# Welcome to my profile c:
 - 🔭 I’m currently working on a Twitter clone
 - 🌱 I’m currently learning React
 
